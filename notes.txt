@@ -1,0 +1,13 @@
+Click buy / confirm - (handled by StockTransactionController)
+
+
+
+Create appropriate records / account deductions / account additions
+
+
+
+Send purchase confirmation notification email with attached contract note
+
+
+
+Display success / confirmation page to the user
